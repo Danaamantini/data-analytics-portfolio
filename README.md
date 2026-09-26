@@ -19,7 +19,6 @@ I'm a Data Analyst focused on transforming complex datasets into meaningful insi
 
 ---
 
-## Featured Projects
 
 ### 01 · 📡 Telecom Customer Churn
 
