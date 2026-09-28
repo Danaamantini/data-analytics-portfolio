@@ -83,4 +83,4 @@ Customer and offer analysis exploring campaign performance, customer behavior, o
 
 **GitHub:** [Danaamantini](https://github.com/Danaamantini)
 
-**LinkedIn:** Coming soon
+**LinkedIn:** [linkedin.com/in/danaamantini](https://www.linkedin.com/in/danaamantini/)
