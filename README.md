@@ -4,7 +4,7 @@
 
 Turning data into clear, actionable business insights.
 
-I'm a Data Analyst focused on transforming complex datasets into meaningful insights and clear visual stories. My projects cover real-world business problems across customer retention, retail, real estate, and marketing.
+This portfolio showcases data analytics projects focused on solving real-world business problems across customer retention, retail, real estate, and marketing.
 
 **Tools:** SQL · Python · Pandas · Excel · Tableau · Power BI
 
