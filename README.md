@@ -1,6 +1,8 @@
-# Hi, I'm Dana 👋
+# Dana Amantini
 
-### Data Analyst | Turning data into clear, actionable business insights
+### Data Analyst
+
+Turning data into clear, actionable business insights.
 
 I'm a Data Analyst focused on transforming complex datasets into meaningful insights and clear visual stories. My projects cover real-world business problems across customer retention, retail, real estate, and marketing.
 
@@ -32,7 +34,7 @@ Customer churn analysis focused on identifying behavioral patterns, high-risk cu
 
 ---
 
-### 02 · 🧸 Mexico Toy Sales
+### 02 · 🛒 Mexico Toy Sales
 
 Retail sales and inventory analysis across 50 toy stores in Mexico, identifying sales performance, profitability, stockouts, and inventory optimization opportunities.
 
